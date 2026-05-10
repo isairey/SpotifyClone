@@ -1,8 +1,7 @@
 <div align="center">
 
-<img width="220" src="./assets/logo.png" />
 
-# 🎵 Webify Music
+# 🎵 SpotifyClone Webify Music
 
 ### Clon moderno de Spotify desarrollado con JavaScript, HTML y CSS 🚀
 
@@ -178,7 +177,7 @@ El proyecto está orientado al aprendizaje y práctica de:
 # 📂 Estructura del Proyecto
 
 ```bash
-webify-music/
+SpotifyClone/
 │
 ├── assets/                  # Recursos gráficos y música
 ├── css/                     # Estilos CSS
@@ -197,7 +196,7 @@ webify-music/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/WebifyMusic
+git clone https://github.com/isairey/SpotifyClone
 ```
 
 ---
@@ -205,7 +204,7 @@ git clone https://github.com/isairey/WebifyMusic
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd WebifyMusic
+cd SpotifyClone
 ```
 
 ---
@@ -378,6 +377,6 @@ Proyecto Open Source desarrollado con fines educativos y práctica de desarrollo
 
 <div align="center">
 
-### 🎵 Webify Music — Tu experiencia Spotify directamente desde el navegador.
+### 🎵 SpotifyClone Webify Music — Tu experiencia Spotify directamente desde el navegador.
 
 </div>
